@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<tr>
+	<td height="35" style="font-size: 35px; line-height: 35px;">&nbsp;</td>
+</tr>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>space</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

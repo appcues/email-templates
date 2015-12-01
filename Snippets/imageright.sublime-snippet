@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<tr>
+ <td align="left" style="color: #95a5a6; font-size: 15px; font-weight: 500; line-height: 24px;">
+    <div style="line-height: 24px">
+       <strong style="color: #4baad4; font-weight: 700;">This is where the headline goes. Make it compelling!</strong><br>Mauris turpis nunc, blandit et, volutpat molestie, porta ut, ligula. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit. Nam at tortor in tellus interdum sagittis. Etiam ultricies nisi vel augue. Vivamus euismod mauris.<a href="#">Here is a link</a>
+    </div>
+ </td>
+ <td width="40">&nbsp;</td>
+ <td align="left" valign="top" style="color: #7f8c8d; font-size: 20px; font-weight: 700; line-height: 24px;">
+    <img src="https://s3.amazonaws.com/appcues-email-assets/images/create-content.png" alt="">
+ </td>
+</tr>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>imageright</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
+
+

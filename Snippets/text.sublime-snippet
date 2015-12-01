@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<table style="margin:0 auto;" cellspacing="0" cellpadding="10" width="100%">
+  <tr>
+   <td align="center" style="color: #95a5a6; font-size: 15px; font-weight: 500; line-height: 24px;">
+      <div style="line-height: 24px">
+         <strong style="color: #4baad4; font-weight: 700;">This is where the headline goes. Make it compelling!</strong><br>Mauris turpis nunc, blandit et, volutpat molestie, porta ut, ligula. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit. Nam at tortor in tellus interdum sagittis. Etiam ultricies nisi vel augue. Vivamus euismod mauris.<br><a href="#">Here is a link</a>
+      </div>
+   </td>
+  </tr>
+</table> 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>text</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
+
+
