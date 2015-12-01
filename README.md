@@ -1,3 +1,6 @@
+
+(>")>************************************<("<)
+
 ###To Install Snippets
 
 * Open Package Control inside of Sublime Text using shift + cmd + P
